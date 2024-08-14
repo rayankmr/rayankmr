@@ -32,16 +32,7 @@ I'm a Mechatronics Engineer specialized in robotics and automation, with a solid
 
 ---
 
-### 📈 Github Stats
-<br>
 
-<p align="center">  
-  <a href="https://github.com/rayankmr/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=rayankmr&show_icons=true&theme=dracula"/> </a>
-</p>
-
-
----
 
 ### 🧰 Language And Tools
 
@@ -70,7 +61,16 @@ I'm a Mechatronics Engineer specialized in robotics and automation, with a solid
   </p>
 
 ---
+### 📈 Github Stats
+<br>
 
+<p align="center">  
+  <a href="https://github.com/rayankmr/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=rayankmr&show_icons=true&theme=dracula"/> </a>
+</p>
+
+
+---
 
 
 ### 📛 Current Streak
