@@ -1,6 +1,6 @@
 <img src="https://github.com/rayankmr/rayankmr/blob/main/welcomebanner.gif" alt="logo" width="850" height="250"/>
 <div align="center">
-# Hi 👋, I'm Rayan Abdul Gafoor
+<h1> Hi 👋, I'm Rayan Abdul Gafoor</h1>
 
 <h3 >Mechatronics Engineer | Roboticist | Maker</h3>
 
