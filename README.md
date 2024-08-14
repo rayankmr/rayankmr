@@ -1,9 +1,11 @@
 <img src="https://github.com/rayankmr/rayankmr/blob/main/welcomebanner.gif" alt="logo" width="850" height="250"/>
-
+<div align="center">
 # Hi 👋, I'm Rayan Abdul Gafoor
 
+<h3 >Mechatronics Engineer | Roboticist | Maker</h3>
+
 I'm a Mechatronics Engineer specialized in robotics and automation, with a solid foundation in control systems. I enjoy working with people from all walks of life and am always ready to adapt and take on new challenges with a keen eye for detail.
-<br>
+<br></div>
 
 <!-- Connect me  -->
 
