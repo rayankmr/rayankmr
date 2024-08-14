@@ -1,4 +1,4 @@
-# Hi, This is Rayan 👋
+# Hi 👋, I'm Rayan Abdul Gafoor
 
 I am <b>Rayan Abdul Gafoor</b> from India.<br><br> I'm a Mechatronics Engineer specialized in robotics and automation, with a solid foundation in control systems. I enjoy working with people from all walks of life and am always ready to adapt and take on new challenges with a keen eye for detail.
 <br>
