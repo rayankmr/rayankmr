@@ -1,4 +1,4 @@
-<img src="https://github.com/rayankmr/rayankmr/blob/main/welcomebanner.gif" alt="logo" width="800" />
+<img src="https://github.com/rayankmr/rayankmr/blob/main/welcomebanner.gif" alt="logo" width="800" height="300"/>
 
 # Hi 👋, I'm Rayan Abdul Gafoor
 
