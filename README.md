@@ -5,7 +5,7 @@ I am <b>Rayan Abdul Gafoor</b> from India.<br><br> I'm a Mechatronics Engineer s
 
 <!-- Connect me On -->
 
-<p align="center">You can find me on   <a href="https://www.instagram.com/__rayan313__/?utm_source=qr" width="10" height="2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="22" height="22" border="0"></a> and   <a href="www.linkedin.com/in/rayan313" width="10" height="2"><img src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" width="20" height="20" border="0"></a> </p>
+<p align="center">You can find me on   <a href="https://www.instagram.com/__rayan313__/?utm_source=qr" width="10" height="2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="22" height="22" border="0"></a> and   <a href="https://www.linkedin.com/in/rayan313/" width="10" height="2"><img src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" width="20" height="20" border="0"></a> </p>
 
 
 ---
