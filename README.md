@@ -2,7 +2,7 @@
 <div align="center">
 <h1> Hi 👋, I'm Rayan Abdul Gafoor</h1>
 
-<h3 >Mechatronics Engineer | Roboticist | Maker</h3>
+<h3 > Roboticist | Mechatronics Engineer | Maker</h3>
 
 I'm a Mechatronics Engineer specialized in robotics and automation, with a solid foundation in control systems. I enjoy working with people from all walks of life and am always ready to adapt and take on new challenges with a keen eye for detail.
 <br></div>
