@@ -1,6 +1,11 @@
 <img src="https://github.com/rayankmr/rayankmr/blob/main/welcomebanner.gif" alt="logo" width="850" height="250"/>
 <div align="center">
 <h1> Hi 👋, I'm Rayan Abdul Gafoor</h1>
+<div align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=rayankmr&label=Profile%20views&color=FF5233&style=flat" alt="rayankmr" /> 
+    <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=rayankmr&theme=onedark" alt="rayankmr" />
+</div>
 
 <h3 > Roboticist | Mechatronics Engineer | Maker</h3>
 
