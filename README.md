@@ -32,7 +32,7 @@ I'm a Mechatronics Engineer specialized in robotics and automation, with a solid
 ### 🚉 Platforms
 <br>
 <div align="center">
-&nbsp;&nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" width="60px"> &nbsp; &nbsp;&nbsp;<img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" width="40px"> &nbsp;&nbsp;&nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/raspberry-pi-logo-svg-vector.svg" width="40px"> &nbsp;&nbsp; &nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/st-microelectronics-1-logo-png-transparent.png" width="55px"> &nbsp;&nbsp;  <img src="https://developer.microej.com/wp-content/uploads/2020/03/logo_techno_aws-iot-core-s2.png" width="50px">
+&nbsp;&nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" width="60px"> &nbsp; &nbsp;&nbsp;<img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" width="40px"> &nbsp;&nbsp;&nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/raspberry-pi-logo-svg-vector.svg" width="40px"> &nbsp;&nbsp; &nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/st-microelectronics-1-logo-png-transparent.png" width="55px"> &nbsp;&nbsp; 
 </div>
 
 ---
